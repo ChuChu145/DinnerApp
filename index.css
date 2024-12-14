@@ -87,7 +87,7 @@ main, header{
 
 
 .head-container{
-    background-image: url(/Images/sign.png);
+    background-image: url(\Images\sign.png);
     color:#ffffff;
     
     
