@@ -139,7 +139,7 @@ function getFeedHtml() {
         feedHtml += `
         <div class="menu">
             <div class="menu-inner">
-                <img src="/images/${menu.emoji}" class="food-img" alt="food sample">
+                <img src="${menu.emoji}" class="food-img" alt="food sample">
                 <div class="inner-text">
                     <p class="food-name">${menu.name}</p>
                     <p class="ingredients">${menu.ingredients.join(', ')}</p>
